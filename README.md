@@ -8,7 +8,7 @@
 
 ```sh
 git clone https://github.com/NetOpWibby/typescript-starter.git && cd typescript-starter
-npm i && npx husky add .husky/pre-commit "npm run pre-commit"
+npm i
 ```
 
 
